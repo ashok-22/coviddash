@@ -1,0 +1,26 @@
+
+.cardhover:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+}
+
+.goback{
+    text-decoration: none;
+}
+
+.logo{
+    width: auto;
+    height: 120px;
+}
+.footer{
+    height: 3rem;
+    width: 100%;
+    background-color: darkslateblue;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 2px;
+}
+
